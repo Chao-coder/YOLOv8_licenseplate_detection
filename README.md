@@ -7,3 +7,8 @@ or you can download from GOOGLE Drive link: https://drive.google.com/file/d/1N_S
 
 # 2.YOLOv8 train
 what needs to be modified during training
+I have upload blog to CSDN ,you can read it by link:http://t.csdn.cn/tpjhB
+
+# reault
+you can see the picture and sheet of the result in the floder result
+
